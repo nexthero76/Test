@@ -7,7 +7,7 @@
 4. "Combined.csv" will be generated as reqiurement.
 
 # API JSON Project
-1. Environment: Windows 10, Python 3.9 64-bit, Visual studio code, Anaconda.fire
-2. Run "npm install request" in terminal command line.
-3. Run "npm install nedb " in terminal command line.
+1. Environment: Windows 10, Python 3.9 64-bit, Visual studio code.
+2. Run "npm install request" in terminal command.
+3. Run "npm install nedb " in terminal command.
 4. Run "node api.js", randomly feched data from public API is to stored in "db/info.db".
